@@ -59,7 +59,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
 
 ## 📂 Dataset & Preparation
 
-- **Source:** <a href="[https://www.kaggle.com/datasets/blastchar/telco-customer-churn]">Telco Customer Churn (7,043 records)</a>  
+- **Source:** [Telco Customer Churn (7,043 records)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Key Fields:**  
   - `Churn` (Yes/No)  
   - `Tenure` (months)  
@@ -182,6 +182,7 @@ The model was trained using logistic regression (GLM). It performs reliably, bal
 
 **Anthony Asuquo**  
 📫 www.linkedin.com/in/anthony-asuquo-718200227
+
 ✉️ asuquoanthony2@gmail.com
 
 ---
