@@ -94,7 +94,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
 ## 📊 Interactive Dashboard
 
 ![Dashboard Preview](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/assets/Dashboard%20Image.png)  
-📄 [Full Dashboard (PDF)]((https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/dashboard/Telco%20Customer%20Churn.pdf))
+📄 [Full Dashboard (PDF)](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/dashboard/Telco%20Customer%20Churn.pdf)
 
 **Dashboard Features:**
 - **KPI Cards**: Overall churn rate, total customers, churned customers, average tenure, and average monthly charges  
@@ -121,21 +121,21 @@ High churn rates directly impact revenue and growth. By understanding which cust
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/telco-churn-analysis.git
-   cd telco-churn-analysis
+   git clone https://github.com/AsuquoAA/telco-churn-analysis.git
+   cd Telco-churn-analysis
    ```
 
-2. **Install dependencies (for analysis/modeling)**
+2. **Install dependencies (for analysis/modelling)**
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn statsmodels ipython
    ```
 
 3. Explore the analysis notebook
-   - Open notebook/Telco_Churn_Analysis.ipynb in Jupyter or VS Code
+   - Open notebook/analysis.ipynb in Jupyter or VS Code
    - Review data cleaning, EDA, feature engineering, and model training steps
 
 4. Inspect the cleaned data
-   - data/cleaned_telco_data.csv contains the preprocessed dataset used throughout the project
+   - data/modelling_data.csv contains the preprocessed dataset used for modelling
 
 5. Check model performance
    - View metrics (accuracy, precision, recall, confusion matrix) in model/model_metrics.txt
@@ -154,13 +154,6 @@ High churn rates directly impact revenue and growth. By understanding which cust
  ---
 
  ## 🏆 Model Performance
-
-Accuracy: 83%
-Precision (Churn): 68%
-Recall (Churn): 60%
-F1-Score (Churn): 64%
-AUC Score: 0.8371
-
 
 > 📁 See full evaluation results in [`model/model_metrics.txt`](model/model_metrics.txt)
 
