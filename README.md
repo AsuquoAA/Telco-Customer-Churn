@@ -20,7 +20,7 @@ __Narrow Problem__: What factors are driving customer churn?
 ## 🚀 Table of Contents
 
 1. [Project Overview](#project-overview)  
-2. [Business Context](#business-context)  
+2. [Business Context](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-business-context)  
 3. [Key Objectives](#key-objectives)  
 4. [Dataset & Preparation](#dataset--preparation)  
 5. [Exploratory Analysis & Modeling](#exploratory-analysis--modeling)  
