@@ -19,8 +19,8 @@ __Narrow Problem__: What factors are driving customer churn?
 
 ## 🚀 Table of Contents
 
-1. [Project Overview](##project-overview)  
-2. [Business Context](##business-context)  
+1. [Project Overview](#project-overview)  
+2. [Business Context](#business-context)  
 3. [Key Objectives](#key-objectives)  
 4. [Dataset & Preparation](#dataset--preparation)  
 5. [Exploratory Analysis & Modeling](#exploratory-analysis--modeling)  
@@ -85,8 +85,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
 - **Modeling:**  
   1. **Feature Engineering & Split**: Prepared features (`Tenure`, `ContractType`, `InternetService`, `MonthlyCharges`) and target (`Churn`), split data 80/20 train/test.  
   2. **GLM Training**: Built a logistic regression model to predict churn probability.  
-  3. **Evaluation Metrics**: Calculated accuracy, precision, recall, F1-score, and AUC.  
-     - Detailed metrics available in [`model/model_metrics.txt`](model/model_metrics.txt)  
+  3. **Evaluation Metrics**: Calculated accuracy, precision, recall, F1-score, and confusion matrix.  
   4. **Model Persistence**: Saved trained model as `model/glm_churn_model.pkl` for reproducibility and deployment
 
 ---
@@ -157,7 +156,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
 
 > 📁 See full evaluation results in [`model/model_metrics.txt`](model/model_metrics.txt)
 
-The model was trained using logistic regression (GLM). It performs reliably, balancing false positives and negatives. With an AUC of ~0.84, it captures churn risk patterns effectively for business use cases.
+The model was trained using logistic regression (GLM). It performs reliably, balancing false positives and negatives.
 
 ---
 
