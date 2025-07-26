@@ -93,8 +93,8 @@ High churn rates directly impact revenue and growth. By understanding which cust
 
 ## 📊 Interactive Dashboard
 
-![Dashboard Preview](assets/churn_dashboard.png)  
-📄 [Full Dashboard (PDF)](dashboard/Telco_Churn_Dashboard.pdf)
+![Dashboard Preview](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/assets/Dashboard%20Image.png)  
+📄 [Full Dashboard (PDF)]((https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/dashboard/Telco%20Customer%20Churn.pdf))
 
 **Dashboard Features:**
 - **KPI Cards**: Overall churn rate, total customers, churned customers, average tenure, and average monthly charges  
