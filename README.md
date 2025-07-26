@@ -59,7 +59,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
 
 ## 📂 Dataset & Preparation
 
-- **Source:** Telco Customer Churn (7,043 records)  
+- **Source:** <a href="[https://www.kaggle.com/datasets/blastchar/telco-customer-churn]">Telco Customer Churn (7,043 records)</a>  
 - **Key Fields:**  
   - `Churn` (Yes/No)  
   - `Tenure` (months)  
@@ -127,7 +127,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
 
 2. **Install dependencies (for analysis/modeling)**
    ```bash
-   pip install requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn statsmodels ipython
    ```
 
 3. Explore the analysis notebook
@@ -138,7 +138,7 @@ High churn rates directly impact revenue and growth. By understanding which cust
    - data/cleaned_telco_data.csv contains the preprocessed dataset used throughout the project
 
 5. Check model performance
-   - View metrics (accuracy, precision, recall, AUC) in model/model_metrics.txt
+   - View metrics (accuracy, precision, recall, confusion matrix) in model/model_metrics.txt
    - See the saved logistic regression model at model/glm_churn_model.pkl
 
 6. Browse the slide deck
@@ -181,8 +181,8 @@ The model was trained using logistic regression (GLM). It performs reliably, bal
 ## 📞 Contact & License
 
 **Anthony Asuquo**  
-📫 [LinkedIn](https://linkedin.com/in/anthonyasuquo)  
-✉️ [Email](asuquoanthony2@gmail.com)
+📫 www.linkedin.com/in/anthony-asuquo-718200227
+✉️ asuquoanthony2@gmail.com
 
 ---
 
