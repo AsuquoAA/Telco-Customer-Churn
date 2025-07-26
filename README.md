@@ -26,7 +26,7 @@ __Narrow Problem__: What factors are driving customer churn?
 5. [Exploratory Analysis & Modeling](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-exploratory-analysis--modeling)  
 6. [Interactive Dashboard](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-interactive-dashboard)  
 7. [Core Insights & Recommendations](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-core-insights--recommendations)  
-8. [Getting Started](#getting-started](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#%EF%B8%8F-getting-started))  
+8. [Getting Started](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#%EF%B8%8F-getting-started)  
 9. [Model Performance](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-model-performance)  
 10. [Next Steps](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-next-steps)  
 11. [Contact & License](https://github.com/AsuquoAA/Telco-Customer-Churn/blob/main/README.md#-contact--license)  
